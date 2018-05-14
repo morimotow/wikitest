@@ -1,5 +1,4 @@
 ````puml
-
 @startuml
 title 呼び出し
 hide footbox
@@ -24,5 +23,4 @@ Taro -> Taro : 自己呼び出し
 Hanako ->] : 外部呼び出し
 Hanako <--] : 外部からの戻り
 @enduml
-
 ````
